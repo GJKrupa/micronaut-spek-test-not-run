@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: notest
+---
+testFramework: spek
+sourceLanguage: kotlin
